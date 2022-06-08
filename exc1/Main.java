@@ -30,7 +30,7 @@ public class ex1 {
                 
                 desinverter.push(pilha.pop()); //desinverte a frase
                 
-                auxiliar1.append(desinverter.pop()); //para comparar com a original, e dizer se é um palíndromo
+                auxiliar1.append(desinverter.pop()); //para comparar com o original e dizer se é um palindromo
             }
             else if(pilha.peek() == ' '){
                 System.out.print(' ');
