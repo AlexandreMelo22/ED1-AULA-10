@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Stack;
 
-public class Ed1DezQuatro {
+public class exc4 {
     public static void main(String[] args) {
         Fila F1 = new Fila();
         Stack<Integer> pilha = new Stack<>();
