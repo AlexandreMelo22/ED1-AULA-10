@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Stack;
 
-public class Main {
+public class exc6 {
     public static void main(String[] args) {
         Fila fila = new Fila();
         Stack<Integer> pilha = new Stack<>();
