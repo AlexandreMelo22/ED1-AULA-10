@@ -1,6 +1,7 @@
+
 import java.util.Scanner;
 
-public class Main {
+public class exc3 {
     public static void main(String[] args) {
         
         boolean funcionando = true;
